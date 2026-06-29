@@ -1,6 +1,7 @@
 {
-  "name": "Vexanium EVM",
+  "name": "Vexanium Mainnet",
   "chain": "VEX",
+  "icon": "vex",
   "rpc": [
     "https://vexascan.com/rpc"
   ],
